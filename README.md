@@ -4,7 +4,7 @@
   
 <head >  
 <title>College of Science and Technology</title>  
-<link rel="shortcut icon" type="x-icon" href="pic/logo.jpg">  
+<link rel="shortcut icon" type="x-icon" href="logo.jpg">  
 <style> 
 table { 
     width:100%; 
