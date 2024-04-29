@@ -1,4 +1,3 @@
-# homework
 <!doctype html>  
 <html> 
   
@@ -29,18 +28,15 @@ td { align:center;background-color:#EEDA84 }
 </style> 
 </head>  
 <body bgcolor="#e2e5de">  
-<h1><marquee behavior="scroll" direction="right" scrollamount="10"><img src="cost.jpg" style="width:100px;height:50px" alt="Cost slide" >សូមស្វាគមន៍‌‌!Women in College of Science and Technology</marquee></h1> 
+<h1><marquee behavior="scroll" direction="right" scrollamount="10"><img src="cost.jpg" style="width:100px;height:50px" alt="Cost slide" >សូមស្វាគមន៍‌‌! IT Woman in College of Science and Technology</marquee></h1> 
 <center> 
 <img src="woman1.jpg" style="width:320px;height:220px">  
 <img src="woman2.jpg" style="width:320px;height:220px"> 
 <img src="woman3.jpg" style="width:320px;height:220px"> </center> 
-<h3>ស្វាគមមកកាន់មហាវិទ្យាល័យវិទ្យាសាស្រ្ត និងបច្ចេកវិទ្យានៃសាកលវិទ្យាល័យកម្ពុជា។ សម្រាប់ប្អូនៗសិដ្ឋានុសិស្ស ដែលមានបំណងចងបន្តការសិក្សាថ្នាក់បរិញ្ញាបត្ររង និងថ្នាក់បរិញ្ញាបត្រ។ សូមចុះឈ្មោះជាមួយយើងកឡូវនេះ ឬអាចអញ្ជើញមកកាន់សាកលវិទ្យាល័យផ្ទាលក់បាន។</h3> 
-<h3>Welcome to College of Science and Technology of The Varversity of Canbodia. For everyone star was to pose for any AA and BA degrees of the study programs, please register now or visit the sampus of The University of Cambodia 
-</h3> 
+<h3>សូមស្វាគមន៏មកកាន់មហាវិទ្យាល័យវិទ្យាសាស្ត្រ​ និងបច្ចេកវិទ្យានៃសកលវិទ្យាល័យកម្ពុជា។​ សម្រាប់ប្អូនៗសិក្សានុសិស្ស ដែលមានបំណងចង់បន្តការសិក្សាថ្នាក់បរិញ្ញាប័ត្ររង និងថ្នាក់បរិញ្ញាប័ត្រ។ សូមចុះឈ្មោះជាមួយយើងឥលូវនេះឬអាចអញ្ចើញមកកាន់សកលវិទ្យាល័យផ្ទាល់ក៏បាន។</h3> 
+<h3>Welcome to College of Science and Technology of The University of Cambodia. For everyone who wishes to pursue fo any AA and BA degrees of the study program. please register now or visit the campus of The University of Cambodia.</h3> 
 <h2 style="background-color:darkblue;color:white">Majors Offering in College of Science and Technology </h2> 
-<table class="table" align="center" 
- 
-> 
+<table class="table" align="center"></table> 
 <tbody> 
 <tr> 
   <th>Major</th> 
